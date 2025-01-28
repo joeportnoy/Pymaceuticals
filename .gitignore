@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+pymaceuticals_starter copy.ipynb
+.DS_Store
+
 # C extensions
 *.so
 
